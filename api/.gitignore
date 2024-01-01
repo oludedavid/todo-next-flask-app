@@ -1,0 +1,17 @@
+.env
+
+# Virtual environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Config files
+config.py
+
+# Other files or directories you want to ignore
+...
+
+# Ignore environment variable files (if you're using a .env file)
+.env
